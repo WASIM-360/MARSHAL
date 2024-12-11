@@ -2,6 +2,7 @@
 
 # Installation :
 ```bash
+apt update && apt upgrade 
 git clone https://github.com/WASIM-360/MARSHAL
 cd MARSHAL
 python Marshal.py
